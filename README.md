@@ -35,4 +35,4 @@ Focada em operações ordenadas e robustez no pior caso.
 ## Autores
 * **[Isabel Cristina Marras Salles - RA 188790](https://github.com/belcms)**
 * **[Victor Luigi Roquetto - RA 250955](https://github.com/VLROCK)**
-* **Rafael Feltrin Lamen Rocha - RA 276246**
+* **[Rafael Feltrin Lamen Rocha - RA 276246](https://github.com/rafafeltrin)**
