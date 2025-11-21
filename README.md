@@ -36,3 +36,10 @@ Focada em operações ordenadas e robustez no pior caso.
 * **[Isabel Cristina Marras Salles - RA 188790](https://github.com/belcms)**
 * **[Victor Luigi Roquetto - RA 250955](https://github.com/VLROCK)**
 * **[Rafael Feltrin Lamen Rocha - RA 276246](https://github.com/rafafeltrin)**
+
+---
+<p align="center">
+  <i>Projeto desenvolvido para a disciplina <b>MC458 - Projeto e Análise de Algoritmos I</b></i><br>
+  Instituto de Computação - UNICAMP<br>
+  2º Semestre de 2025
+</p>
