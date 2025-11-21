@@ -14,7 +14,7 @@ Isto é, o número de elementos não nulos ($k$) é muito menor que o número to
 
 Matrizes esparsas aparecem frequentemente nos mais diversos campos da computação e matemática (como processamento de imagens, aprendizado de máquina e simulações físicas), por vezes representando processos reais que dependem de eficiência e otimização.
 
-Este projeto visa, por meio da ótica experimental e teórica, implementar e comparar o uso de duas estruturas distintas que promovem o uso mais eficiente de memória ($O(k)$) e poder computacional em comparação à representação densa tradicional.
+Este projeto visa, por meio da ótica experimental e teórica, implementar e comparar o uso de duas estruturas distintas que promovem o uso mais eficiente de memória O(k) e poder computacional em comparação à representação densa tradicional.
 
 ---
 
