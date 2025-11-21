@@ -32,7 +32,7 @@ Focada em operações ordenadas e robustez no pior caso.
 
 ---
 
-##Autores
-**Isabel Cristina Marras Salles - RA 188790**
-**Victor Luigi Roquetto - RA 250955**
-**Rafael Feltrin Lamen Rocha - RA 276246**
+## Autores
+* **Isabel Cristina Marras Salles - RA 188790**
+* **Victor Luigi Roquetto - RA 250955**
+* **Rafael Feltrin Lamen Rocha - RA 276246**
