@@ -30,3 +30,9 @@ Focada em operações ordenadas e robustez no pior caso.
 
 * **Arquitetura:** Utiliza árvores binárias de busca balanceadas (Rubro-Negras) para armazenar os elementos não nulos.
 
+---
+
+##Autores
+**Isabel Cristina Marras Salles - RA 188790**
+**Victor Luigi Roquetto - RA 250955**
+**Rafael Feltrin Lamen Rocha - RA 276246**
