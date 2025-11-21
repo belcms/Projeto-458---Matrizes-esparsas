@@ -9,8 +9,6 @@
 
 using namespace std;
 
-#define MAX 1783
-
 typedef struct NoColuna *p_no_coluna;
 
 struct NoColuna //representa o nó do elemento não nulo
