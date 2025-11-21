@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-#include "arvore_balanceada.hpp"
+#include "matriz_arvore_balanceada.hpp"
 #include "matriz_hash.hpp"
 #include "matriz_normal.hpp"
 
